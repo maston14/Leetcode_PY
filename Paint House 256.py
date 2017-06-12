@@ -1,4 +1,5 @@
 # Origin
+# Basic Idea: DP, 对每一行的每一个都算一下
 class Solution(object):
     def minCost(self, costs):
         """
